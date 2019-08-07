@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setting up
+### `cd penpal`
+### `npm install @cometchat-pro/chat react-bootstrap react-router-dom uuid`
 
 ## Available Scripts
 
