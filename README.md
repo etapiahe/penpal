@@ -1,3 +1,7 @@
+
+# Penpal
+PenPal Application to have volunteers become anonymous pen pals with people in prisons to increase their mental health.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Setting up
 ### `cd penpal`
